@@ -1,0 +1,6 @@
+workspace/code/escudos
+workspace/tests/*.diff
+workspace/tests/*.err
+workspace/tests/*.out
+workspace/core*
+workspace/code/core*
